@@ -1,4 +1,4 @@
-# IDAO 2021 Finals - Final submission
+# IDAO 2021 Finals - Final Submission
 
 ### This is the final submission that gave us our highest score in public LB. Our final score was 3436.63 out of 6750 and we were 26th among the 30 participant teams.
 

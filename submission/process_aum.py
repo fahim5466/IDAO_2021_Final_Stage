@@ -3,7 +3,7 @@ import pathlib as path
 import numpy as np
 import pandas as pd
 
-from utils import make_map, mappify, sort_and_map
+from utils import make_map, mappify
 
 def process_product_code(df, client_ids):
 
